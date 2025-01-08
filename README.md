@@ -17,9 +17,9 @@ I'm a passionate developer with a strong interest in web development, open-sourc
 
 ### Languages
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 - ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-- ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
+- ![C](https://img.shields.io/badge/-C-000?&logo=C)
+- ![C#](https://img.shields.io/badge/-C#-000?&logo=C#)
 
 ### Frameworks and Libraries
 - ![React](https://img.shields.io/badge/-React-000?&logo=React)
