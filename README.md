@@ -6,13 +6,12 @@
 
 I'm a passionate developer with a strong interest in web development, open-source contributions, and continuously learning new technologies. I enjoy solving complex problems and building innovative solutions.
 
-- 🔭 I’m currently working on [Project Name](project URL)
-- 🌱 I’m currently learning [Technology/Language]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 🤔 I’m looking for help with [Specific Area or Project]
-- 💬 Ask me about [Area of Expertise]
+- 🔭 I’m currently working on a chatbot for Python.
+- 🌱 I’m currently learning Python, Java, C/C#/C++.
+- 👯 I’m looking to collaborate on any type of project, feel free to reach out to me!
+- 🤔 I’m looking for friends that are likeminded people who want to work together and have fun!
 - 📫 How to reach me: [Email Address]
-- ⚡ Fun fact: [Something Interesting About You]
+- ⚡ Fun fact: I used to work in electrical engineering before starting my CS degree and coding!
 
 ## Skills
 
