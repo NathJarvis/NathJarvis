@@ -20,6 +20,7 @@ I'm a passionate developer with a strong interest in web development, open-sourc
 - ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 - ![C](https://img.shields.io/badge/-C-000?&logo=C)
 - ![C#](https://img.shields.io/badge/-CSharp-000?&logo=sharp)
+- ![C++](https://img.shields.io/badge/-C++-000?&logo=c++)
 
 ### Frameworks and Libraries
 - ![React](https://img.shields.io/badge/-React-000?&logo=React)
