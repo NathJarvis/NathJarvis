@@ -1,7 +1,5 @@
 # Hi there, I'm Nathan! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=nath8558&color=blueviolet)
-
 ## About Me
 
 I'm a passionate developer with a strong interest in web development, open-source contributions, and continuously learning new technologies. I enjoy solving complex problems and building innovative solutions.
