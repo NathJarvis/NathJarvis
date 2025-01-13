@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate developer with a strong interest in web development, open-source contributions, and continuously learning new technologies. I enjoy solving complex problems and building innovative solutions.
+I'm a passionate Software Engineer with a strong interest in Back-end development, full-stack development, and continuously learning new technologies. I enjoy solving complex problems and building innovative solutions.
 
 - 🔭 I’m currently working on a chatbot for Python.
 - 🌱 I’m currently furthering my knowledge in Python, JavaScript, C#/C++.
