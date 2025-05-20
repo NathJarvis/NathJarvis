@@ -2,10 +2,10 @@
 
 ## About Me
 
-I'm a passionate Software Engineer with a strong interest in Back-end development, full-stack development, and continuously learning new technologies. I enjoy solving complex problems and building innovative solutions.
+I'm a passionate Software Engineer with a strong interest in Back-end development or full-stack development, and continuously learning new technologies. I enjoy solving complex problems and building innovative solutions.
 
-- 🔭 I’m currently working on a chatbot for Python.
-- 🌱 I’m currently furthering my knowledge in Python, JavaScript, C#/C++.
+- 🔭 I’m currently researching ideas to start a automotive OS system in Python.
+- 🌱 I’m currently furthering my knowledge in Python, and ASP.NET.
 - 👯 I’m looking to collaborate on any type of project, feel free to reach out to me!
 - 🤔 I’m looking for friends that are likeminded people who want to work together and have fun!
 - ⚡ Fun fact: I used to work in electrical engineering before starting my CS degree and coding!
@@ -20,6 +20,9 @@ I'm a passionate Software Engineer with a strong interest in Back-end developmen
 
 ### Tools
 - ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+- ![Github](https://img.shields.io/badge/-Git-000?&logo=Github)
+- ![Pycharm](https://img.shields.io/badge/-Git-000?&logo=pycharm)
+- ![CLion](https://img.shields.io/badge/-Git-000?&logo=clion)
   
 ## Connect with Me
 
