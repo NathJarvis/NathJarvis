@@ -23,8 +23,10 @@ I'm a passionate Software Engineer with a strong interest in Back-end developmen
 - ![Github](https://img.shields.io/badge/-GitHub-000?&logo=Github)
 - ![Pycharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
 - ![CLion](https://img.shields.io/badge/-CLion-000?&logo=clion)
+- ![Teamcity](https://img.shields.io/badge/-TeamCity-000?&logo=teamcity)
+- ![VisualStudio](https://img.shields.io/badge/-CLion-000?&logo=clion)
   
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/nath8558)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/nkjarvis/)
 
