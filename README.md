@@ -20,9 +20,9 @@ I'm a passionate Software Engineer with a strong interest in Back-end developmen
 
 ### Tools
 - ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-- ![Github](https://img.shields.io/badge/-Git-000?&logo=Github)
-- ![Pycharm](https://img.shields.io/badge/-Git-000?&logo=pycharm)
-- ![CLion](https://img.shields.io/badge/-Git-000?&logo=clion)
+- ![Github](https://img.shields.io/badge/-GitHub-000?&logo=Github)
+- ![Pycharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
+- ![CLion](https://img.shields.io/badge/-CLion-000?&logo=clion)
   
 ## Connect with Me
 
