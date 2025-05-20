@@ -14,9 +14,9 @@ I'm a passionate Software Engineer with a strong interest in Back-end developmen
 
 ### Languages
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-- ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+- ![HTML](https://img.shields.io/badge/-Html-000?&logo=Java)
+- ![CSS](https://img.shields.io/badge/-Css-000?&logo=Cplusplus)
 - ![C](https://img.shields.io/badge/-C-000?&logo=C)
-- ![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
 
 ### Tools
 - ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
